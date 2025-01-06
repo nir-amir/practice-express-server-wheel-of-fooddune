@@ -1,0 +1,30 @@
+{
+  "name": "practice-express-server",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@sequelize/mysql": "^7.0.0-alpha.41",
+    "@tsconfig/node20": "^20.1.4",
+    "@types/aws-lambda": "^8.10.143",
+    "@types/aws-serverless-express": "^3.3.9",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/express": "^4.17.21",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^22.2.0",
+    "@types/sequelize": "^4.28.20",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.6",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "esbuild": "^0.23.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "sequelize": "^6.37.3",
+    "serverless-express": "^2.0.12",
+    "sqlite3": "^5.1.7",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
